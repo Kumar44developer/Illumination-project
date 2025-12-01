@@ -5,3 +5,5 @@
     cursor: none;
     font-family: cursive;
 }
+.container{
+    display: flex;
