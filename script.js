@@ -1,1 +1,1 @@
-
+const mouseEvent = document.documentElement;
