@@ -17,3 +17,6 @@
 
 .container h1{
     color: #fff;
+    font-size: 8rem;
+    cursor: none;
+}
