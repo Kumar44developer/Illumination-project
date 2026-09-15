@@ -28,10 +28,10 @@ An interactive, cursor-driven flashlight illumination effect built with pure HTM
 
 ```
 Illumination-project/
-├── index.html       # DOM structure for container, heading, and illumination overlay
-├── style.css        # Layout, typography, spotlight radial gradient, and cursor rules
-├── script.js        # Mouse event listener updating CSS coordinates
-└── README.md        # Project documentation
+├── index.html      
+├── style.css       
+├── script.js       
+└── README.md     
 ```
 
 ---
